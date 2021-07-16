@@ -1,0 +1,25 @@
+{
+  "name": "Gulp-Project",
+  "version": "1.0.0",
+  "description": "Gulp Project",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Piyali Das",
+  "license": "ISC",
+  "engines": {
+    "node": ">=12"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "typescript": "^4.3.4"
+  },
+  "dependencies": {
+    "npm": "^7.19.0",
+    "rxjs": "^7.1.0"
+  }
+}
